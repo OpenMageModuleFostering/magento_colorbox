@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/magento_colorbox",
+    "name": "OpenMageModuleFostering\/magento_colorbox",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Colorbox Magento integtaion. A lightweight customizable lightbox plugin for Magento.",
     "authors": [
-    {
-        "name": "volgodark",
-        "email": "volgodark@gmail.com"
-    }
-],
+        {
+            "name": "volgodark",
+            "email": "volgodark@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
