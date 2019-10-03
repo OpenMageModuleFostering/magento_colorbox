@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Colorbox Magento integtaion. A lightweight customizable lightbox plugin for Magento.
